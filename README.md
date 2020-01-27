@@ -1,4 +1,4 @@
-[![License](https://img.shields.io/badge/license-MIT_license-blue.svg)](https://raw.githubusercontent.com/dblume/netflix_streaming_feed/master/LICENSE.txt)
+[![License](https://img.shields.io/badge/license-MIT_license-blue.svg)](https://raw.githubusercontent.com/dblume/netflix-streaming-feed/master/LICENSE.txt)
 ![python3.x](https://img.shields.io/badge/python-3.x-green.svg)
 
 ## Netflix Streaming Activity Feed
