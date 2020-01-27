@@ -1,0 +1,4 @@
+netflix_streaming_feed.cfg
+netflix_streaming_feed.csv
+*.xml
+*.pyc

@@ -1,0 +1,9 @@
+[main]
+email = user@example.org
+password = correcthorsebatterystaple
+profile_token = GET_ME_FROM_HTML_SOURCE
+user_guid = GET_ME_FROM_/viewingactivity_SOURCE
+[feed]
+filename = netflix_streaming.xml
+href = http://domain.org/%(filename)s
+title = My Netflix Streaming Activity Feed
