@@ -5,7 +5,7 @@
 
 You can create a streaming activity feed with this script. Activity feeds are
 records of the things you've done. In this case, it's a list of shows
-you've listened to.
+you've watched.
 
 Activity feeds can be used to collect data for lifestreaming and for Quantified
 Self projects.
